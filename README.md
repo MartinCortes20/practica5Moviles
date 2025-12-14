@@ -1,4 +1,4 @@
-# Práctica 5 - Aplicación Móvil con Firebase
+# TAREA 5 - Aplicación Móvil con Firebase
 
 ## Evidencias de la práctica terminada 
 ### 1. Interfaz de la Aplicación
